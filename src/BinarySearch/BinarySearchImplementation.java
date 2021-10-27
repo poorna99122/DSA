@@ -1,6 +1,6 @@
 package BinarySearch;
 
-public class BinarySearchImplimentation {
+public class BinarySearchImplementation {
     public static void main(String[] args) {
         int[] arr = {2,3,4,5,10,15,21,42,56,62,75,99};
         System.out.println( binarySearch(arr,56));
